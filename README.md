@@ -8,8 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Tenho 24 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia e estou sempre em busca de evolução, aprimorando minhas habilidades por meio de cursos, estudos contínuos e projetos práticos.
-Acredito que o aprendizado constante é essencial na área de desenvolvimento, e por isso busco me manter atualizado e preparado para os desafios do mercado.
+Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em projetos web utilizando React, TypeScript, Angular, C#, .NET e SQL Server. Possuo facilidade de aprendizado, sou proativo e estou sempre em busca de evolução técnica. Meu objetivo é contribuir com soluções eficientes, aprender com novas experiências e crescer profissionalmente.
 
 ## 💻 Tecnologias e Ferramentas
 
